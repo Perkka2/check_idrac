@@ -1,4 +1,7 @@
 # Change Log
+## [2022-03-31]
+- Added -e option for showing errors only
+
 ## [2.2rc4]
 - Remove Warn and Crit information in performance data since nagios support only WARN and CRIT but script uses 4 values for this: minWARN, maxWARN, minCRIT and maxCRIT.
 
